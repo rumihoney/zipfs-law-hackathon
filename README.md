@@ -35,7 +35,8 @@ Each analysis includes:
 - Jupyter Notebook
 - NLTK
 - Regular Expressions (`re`)
-- pandas
+- FreqDist
+- Brown and Gutenberg corpus
 - matplotlib (when applicable)
 
 ## Course

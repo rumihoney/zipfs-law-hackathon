@@ -31,6 +31,7 @@ zipf-hackathon-analysis/
 │   └── Prompt 5 – Hyphenated & Clitic-like Pieces
 │
 ├── syntax/
+│   ├── POS Tag Reference
 │   ├── Prompt 6 – POS Tags
 │   ├── Prompt 7 – POS Bigrams
 │   └── Prompt 8 – Grammar Rules

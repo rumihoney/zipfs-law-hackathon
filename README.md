@@ -1,10 +1,10 @@
 # Zipf's Law Hackathon Solutions
 
-This repository contains my independent solutions to the remaining prompt cards from a hackathon in **LING 498 – Computational Methods in Linguistics** at **Concordia University**, winter 2026.
+This repository contains my independent solutions to the remaining prompt cards from a hackathon in **LING 498 – Computational Methods in Linguistics** at **Concordia University**, Winter 2026.
 
 The hackathon challenged students to investigate whether **Zipf-like rank–frequency patterns** emerge across different kinds of linguistic evidence—including words, morpheme proxies, constructions, phoneme sequences, and semantic domains—while considering how preprocessing and annotation choices influence the results. 
 
-While one analysis was completed during the course (Prompt 9), this repository extends the project through self-study by exploring the remaining prompt cards.
+Prompt 9 was completed during the course and is included as a reference. The remaining prompt cards were completed independently for additional practice.
 
 ## Objectives
 
@@ -56,7 +56,7 @@ Each notebook follows a consistent structure and includes:
 ## Tools
 
 - Python
-- Jupyter Notebook
+- Jupyter Notebooks
 - NLTK
 - Regular Expressions (`re`)
 - FreqDist
@@ -66,4 +66,4 @@ Each notebook follows a consistent structure and includes:
 ## Course
 
 **LING 498 – Computational Methods in Linguistics**  
-Concordia University
+Concordia University, Winter 2026

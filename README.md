@@ -62,7 +62,7 @@ Each notebook follows a consistent structure and includes:
 - Regular Expressions (`re`)
 - FreqDist
 - NLTK corpora (Brown, Gutenberg, CMUdict, WordNet, etc.)
-- matplotlib (when applicable)
+- matplotlib
 
 ## Course
 

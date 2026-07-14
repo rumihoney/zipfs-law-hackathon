@@ -6,10 +6,6 @@ The hackathon challenged students to investigate whether **Zipf-like rank–freq
 
 Prompt 9 was completed during the course and is included as a reference. The remaining prompt cards were completed independently for additional practice.
 
-## Status
-
-This repository is a work in progress. All coding exercises have been completed. I am currently adding interpretations.
-
 ## Objectives
 
 - Investigate Zipf-like rank–frequency distributions across multiple linguistic units.
@@ -66,7 +62,7 @@ Each notebook follows a consistent structure and includes:
 - Regular Expressions (`re`)
 - FreqDist
 - NLTK corpora (Brown, Gutenberg, CMUdict, WordNet, etc.)
-- matplotlib (when applicable)
+- matplotlib
 
 ## Course
 
